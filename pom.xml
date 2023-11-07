@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.amazon</groupId>
 	<artifactId>product</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>com.amazon.product.v1.0</version>
 	<name>product</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
